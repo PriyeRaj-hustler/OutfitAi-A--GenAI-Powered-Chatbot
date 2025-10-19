@@ -11,7 +11,7 @@ This project is an "AI Fashion Advisor," a personal chatbot designed to provide 
 * **User Feedback Pipeline:** A built-in feedback system on the frontend allows users to submit their thoughts on the AI's suggestions.
 * **Feedback Logging:** All user-submitted feedback is automatically logged in a timestamped file (`user_feedback.log`) for review and future model improvements.
 
-## Screenshots
+## Images
 
 Here you can see the application in action, from the user's request to the feedback being logged.
 
